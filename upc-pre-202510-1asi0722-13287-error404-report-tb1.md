@@ -68,19 +68,19 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
 <table>
   <tr align="center">
     <td rowspan="4">
-      <img src="./images/profile_images/"  min-width="400" max-width="900"/>
+      <img src="./images/profile_images/sebastianCachis.png"  min-width="400" max-width="900"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
       <br>            
-      agregaar
+      Sebastian Nicolas Cachis Gonzales
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Código:</b>
     <br>
-    agregaar
+    U202210846
     </td>
   </tr>
   <tr>
@@ -94,7 +94,7 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
     <td align="left">
     <b>Acerca de:</b>
     <br>
-    Soy .
+    Soy estudiante de séptimo ciclo de ingeniería de software en la UPC. Me considero una persona proactiva, organizada, meticulosa y muy enfocada en mis estudios, tanto grupales como individuales. Tengo facilidad para entender y ejemplificar los distintos temas que vemos, teniendo soltura para explicar.
     </td>
   </tr>
   </tr>
@@ -204,6 +204,13 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
 ### 1.2.2. Propuesta de valor
 
 ## 1.3. Segmentos objetivo  
+
+En el ámbito de la agricultura y tecnología, es fundamental identificar segmentos objetivo precisos para abordar necesidades específicas. Nuestro producto se dirige a dos segmentos clave:
+
+- **Agricultores Profesionales:** Este segmento incluye a agricultores de países desarrollados y en desarrollo que se dedican a la agricultura como su actividad principal. Aunque la adopción de herramientas digitales es más alta en países desarrollados, hay una tendencia creciente entre los agricultores en países en desarrollo para usar tecnología para mejorar la productividad. Sin embargo, los agricultores en países en desarrollo pueden enfrentar barreras como acceso limitado a internet o falta de habilidades técnicas. A nivel global, este segmento busca soluciones que les permitan gestionar sus cultivos de manera eficiente, reducir pérdidas y aumentar la productividad. 
+
+- **Jardineros en casa o aficionados a la Agricultura:** Este segmento está compuesto por personas que practican la agricultura como hobby o en pequeña escala. Aunque tienen un creciente interés en herramientas digitales para mejorar sus prácticas agrícolas, a menudo prefieren enfoques tradicionales y pueden ser reacios a adoptar nuevas tecnologías. Necesitan aplicaciones que sean fáciles de usar y que proporcionen información clara y accesible para respaldar sus actividades agrícolas.
+
 
 # Conclusiones  
 ## Conclusiones y recomendaciones  
