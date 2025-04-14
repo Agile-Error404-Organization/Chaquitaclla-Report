@@ -21,7 +21,7 @@
 |         Elias Yauri Paucar        | u202211817 |
 |  Juan Fabritzzio Pescoran Angulo  | u20221c935 |
 |  Adriano Sebastian Cruz Palomino  | u202210697 |
-|           Lucio Heli Yen Cerna            | u202213143 |
+|  Lucio Heli Yen Cerna             | u202213143 |
 
 </div>
 
@@ -30,6 +30,15 @@
 <br><br>
 
 <div align="justify">
+
+## Registro de Versiones del Informe
+
+El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva e incluye un cuadro con la siguiente estructura:
+
+| Version | Fecha      | Autor         | Descripción de modificación                                                          |
+|---------|------------|---------------|--------------------------------------------------------------------------------------|
+| 1.0     | 14/04/25 | Jimena Cama | Documentación de la descripción de la startup del Capitulo 1 |
+| 1.1     | 11/04/2025 | Sebastián Cachis   | Documentación de segmentos objetivos         |
 
 # Contenido
 
@@ -47,6 +56,90 @@
 ## [Anexos](#anexos)
 
 <br>
+
+# Student Outcome
+
+<table>
+    <thead>
+        <tr>
+            <th><b>Criterio específico</b></th>
+            <th><b>Acciones realizadas</b></th>
+            <th><b>Conclusiones</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="1"><b>Diseña productos o componentes en ingeniería de software que satisfacen necesidades específicas considerando el impacto en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos.</b></td>
+            <td>
+                <b>Jimena Cama Salvatierra</b><br>
+                TB1: Diseñé componentes de software centrados en la accesibilidad y usabilidad para agricultores con diversos niveles de alfabetización digital.<br>
+                <br>
+                <b>Sebastian Nicolas Cachis Gonzales</b><br>
+                TB1: <br>
+                <br>
+                <b>Elias Yauri Paucar</b><br>
+                TB1: <br>
+                <br>
+                <b>Juan Fabritzzio Pescoran Angulo</b><br>
+                TB1: <br>
+                <b>Adriano Sebastian Cruz Palomino</b><br>
+                TB1: <br>
+                <b>Lucio Heli Yen Cerna</b><br>
+                TB1: <br>
+                </td>
+            <td rowspan="1">
+                TB1: [Conclusiones Grupales]<br>
+                </td>
+        </tr>
+        <tr>
+            <td rowspan="1"><b>Diseña proyectos que permiten la implementación de soluciones en ingeniería de software considerando el impacto en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos.</b></td>
+            <td>
+                <b>Jimena Cama Salvatierra</b><br>
+                TB1: Desarrollé un marco de trabajo para Chaquitaclla que integra prácticas sostenibles de agricultura con tecnología accesible, diseñando la arquitectura del sistema para funcionar en entornos con conectividad intermitente. <br>
+                <br>
+                <b>Sebastian Nicolas Cachis Gonzales</b><br>
+                TB1: <br>
+                <br>
+                <b>Elias Yauri Paucar</b><br>
+                TB1: <br>
+                <br>
+                <b>Juan Fabritzzio Pescoran Angulo</b><br>
+                TB1: <br>
+                <b>Adriano Sebastian Cruz Palomino</b><br>
+                TB1: <br>
+                <b>Lucio Heli Yen Cerna</b><br>
+                TB1: <br>
+                </td>
+            <td rowspan="1">
+                 TB1: [Conclusiones Grupales Pendientes]<br>
+                </td>
+        </tr>
+        <tr>
+            <td rowspan="1"><b>Diseña y ejecuta los procesos relacionados al desarrollo y mantenimiento de la solución de software en ingeniería considerando el impacto en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos.</b></td>
+            <td>
+                <b>Jimena Cama Salvatierra</b><br>
+                TB1: Implementé metodologías ágiles adaptadas al contexto agrícola para el desarrollo de Chaquitaclla, estableciendo ciclos de retroalimentación con agricultores de diversas regiones y niveles tecnológicos. <br>
+                <br>
+                <b>Sebastian Nicolas Cachis Gonzales</b><br>
+                TB1: <br>
+                <br>
+                <b>Elias Yauri Paucar</b><br>
+                TB1: <br>
+                <br>
+                <b>Juan Fabritzzio Pescoran Angulo</b><br>
+                TB1: <br>
+                <b>Adriano Sebastian Cruz Palomino</b><br>
+                TB1: <br>
+                <b>Lucio Heli Yen Cerna</b><br>
+                TB1: <br>
+                </td>
+            <td rowspan="1">
+                 TB1: [Conclusiones Grupales Pendientes]<br>
+                </td>
+        </tr>
+    </tbody>
+</table>
+
 
 # Capítulo I: Introducción
 
