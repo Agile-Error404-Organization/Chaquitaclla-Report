@@ -21,7 +21,7 @@
 |         Elias Yauri Paucar        | u202211817 |
 |  Juan Fabritzzio Pescoran Angulo  | u20221c935 |
 |  Adriano Sebastian Cruz Palomino  | u202210697 |
-|           Lucio            | u202213143 |
+|           Lucio Heli Yen Cerna            | u202213143 |
 
 </div>
 
