@@ -2,12 +2,12 @@
     <h3>Universidad Peruana de Ciencias Aplicadas</h3>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software - 7mo Ciclo</strong><br>
-    <strong>Diseño de experimentos de Ingeniería de Software</strong><br>
-    <strong>1ASI0732-4438</strong><br>
-    <strong>Profesor: Julio Manuel Noriega Melendez</strong><br>
+    <strong>Agile Project Management</strong><br>
+    <strong>1ASI0722-13287</strong><br>
+    <strong>Profesor: José Luis Vasquez Medina</strong><br>
     <br><strong>Report</strong><br>
-    <br><strong>AventuraPE</strong><br>
-    <!--<strong>name startup</strong>-->
+    <br><strong>ChaquiTaclla</strong><br>
+    <strong>Error 404</strong>
 </div>
 
 <h3> Team Members: </h3>
@@ -16,11 +16,12 @@
 
 | Member                              |    Code    |
 | :---------------------------------- | :--------: |
-| Jose Eduardo Gutierrez Garcia       | u202221518 |
-| Cama Salvatierra, Jimena Tamara     | u202210778 |
-| Castillo Castillo, Jair Alexander   | u202211390 |
-| Estefano Oscar Jaque Peña           | u202225466 |
-| Quezada Portalatino, Barbara Susana | u202211800 |
+|      Jimena Cama Salvatierra      | u202210778 |
+| Sebastian Nicolas Cachis Gonzales | u202210846 |
+|         Elias Yauri Paucar        | u202211817 |
+|  Juan Fabritzzio Pescoran Angulo  | u20221c935 |
+|  Adriano Sebastian Cruz Palomino  | u202210697 |
+|           Lucio            | u202213143 |
 
 </div>
 
