@@ -315,7 +315,7 @@ Los pequeños agricultores y aficionados enfrentan dificultades para gestionar s
 - **Experimentados:** Optimizar la gestión y análisis de sus cultivos para maximizar la productividad.  
 - **Pequeños agricultores:** Acceso a una herramienta simple que facilita la planificación y monitoreo de cultivos.
 
-![Lean ux canvas](URL-o-ruta-de-la-imagen)
+![Lean ux canvas](images/leanux.png)
 
 ## 1.3. Segmentos objetivo  
 
