@@ -194,19 +194,19 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
 
   <tr align="center">
     <td rowspan="4">
-      <img src="./images/profile_images/" min-width="400" max-width="900"/>
+      <img src="./images/profile_images/elias.png" min-width="400" max-width="900"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
       <br>            
-      agregaar
+      Elias Yauri Paucar
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Código:</b>
     <br>
-    agregaar
+    U202211817
     </td>
   </tr>
   <tr>
@@ -220,7 +220,7 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
     <td align="left">
     <b>Acerca de:</b>
     <br>
-    .
+    Mi nombre es Elias Yauri, soy una persona muy participativa cuando se trata en el tema laboral y en el trabajo en equipo, siempre trato que haya una comunicación constante con todos los miembros del grupo para de esta forma poder tener todos una buena afinidad como grupo y que el trabajo se realice de manera exitosa. 
     </td>
   </tr>
   </tr>
