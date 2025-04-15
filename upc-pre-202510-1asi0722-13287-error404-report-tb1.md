@@ -37,9 +37,11 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 | Version | Fecha      | Autor         | Descripción de modificación                                                          |
 |---------|------------|---------------|--------------------------------------------------------------------------------------|
-| 1.0     | 14/04/25 | Jimena Cama | Documentación de la descripción de la startup del Capitulo 1 |
-| 1.1     | 11/04/2025 | Sebastián Cachis   | Documentación de segmentos objetivos         |
+| 1.0     | 14/04/2025 | Jimena Cama | Documentación de la descripción de la startup del Capitulo 1 |
+| 1.1     | 14/04/2025 | Sebastián Cachis   | Documentación de segmentos objetivos         |
 | 1.2     | 14/04/2025 | Elias Yauri   | Documentación de Propuesta de valor               |
+| 1.3     | 15/04/2025 | Adriano Cruz   | Actualización de la Propuesta de Valor  |
+
 # Contenido
 
 ## [Capítulo I: Introducción](#capítulo-i-introducción)
