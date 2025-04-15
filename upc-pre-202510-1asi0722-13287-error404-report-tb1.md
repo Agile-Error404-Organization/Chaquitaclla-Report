@@ -259,19 +259,19 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
 
 <tr align="center">
     <td rowspan="4">
-      <img src="./images/profile_images/"  min-width="400" max-width="900"/>
+      <img src="./images/profile_images/adrianoCruz.png"  min-width="400" max-width="900"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
       <br>            
-      agregaar
+      Adriano Sebastian Cruz Palomino
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Código:</b>
     <br>
-    agregaar
+    U202210697
     </td>
   </tr>
   <tr>
@@ -285,7 +285,7 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
     <td align="left">
     <b>Acerca de:</b>
     <br>
-    .
+    Mi nombre es Adriano Sebastian Cruz Palomino, tengo 20 años, soy alumno de Ingeniería de Software en la UPC, actualmente estoy cursando el 7mo ciclo. Soy una persona curiosa, responsable, y comprometida con mis estudios, siempre busco aprender más y mejorar mis habilidades.
     </td>
   </tr>
   </tr>
@@ -296,24 +296,25 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Propuesta de valor
 
-## Problema a Resolver  
-Los pequeños agricultores y aficionados enfrentan dificultades para gestionar sus cultivos de manera eficiente debido a la falta de herramientas accesibles, fáciles de usar y una comunidad donde compartir conocimientos sobre prácticas agrícolas.
+### Problema a Resolver  
 
-## Posibles Usuarios  
-- **Agricultores principiantes:** Personas con poca experiencia agrícola que buscan aprender y mejorar sus prácticas.  
-- **Agricultores experimentados:** Profesionales que desean optimizar la gestión de sus cultivos con decisiones basadas en datos.  
-- **Pequeños agricultores y jardineros:** Individuos o familias que gestionan pequeñas parcelas de tierra y buscan herramientas sencillas y eficientes.
+Los agricultores, especialmente los pequeños y aficionados, tienen dificultades para gestionar sus cultivos de manera eficiente debido a la falta de herramientas accesibles y fáciles de usar. Existe una falta de comunidad de apoyo donde puedan compartir conocimientos y resolver dudas sobre prácticas agrícolas.
 
-## Objetivos del Startup  
-- Aumentar la adopción de la aplicación entre pequeños agricultores.  
-- Reducir errores en la gestión de datos agrícolas y mejorar la precisión de decisiones.  
-- Crear una comunidad activa de apoyo y colaboración agrícola.  
-- Generar ingresos sostenibles mediante un modelo de suscripción escalable.
+### Posibles Usuarios  
+- **Agricultores principiantes:** Personas con poca experiencia agrícola que buscan aprender y mejorar sus prácticas agrícolas con herramientas intuitivas.
+- **Agricultores experimentados:** Profesionales que desean optimizar la gestión de sus cultivos mediante decisiones basadas en datos y análisis sistematizados.
+- **Pequeños agricultores y jardineros:** Individuos o familias que gestionan pequeñas parcelas de tierra y necesitan soluciones tecnológicas accesibles y eficientes para maximizar sus resultados.
 
-## Beneficios para los Usuarios  
-- **Principiantes:** Aprender mejores prácticas y mejorar los rendimientos de sus cultivos.  
-- **Experimentados:** Optimizar la gestión y análisis de sus cultivos para maximizar la productividad.  
-- **Pequeños agricultores:** Acceso a una herramienta simple que facilita la planificación y monitoreo de cultivos.
+### Objetivos del Startup  
+- Aumentar la adopción de la aplicación entre pequeños agricultores y aficionados a la jardinería, medido por el crecimiento en usuarios activos.
+- Reducir errores en la entrada de datos agrícolas y mejorar la precisión de las decisiones, verificable mediante encuestas de satisfacción.
+- Fomentar la creación de una comunidad activa donde los usuarios compartan conocimientos y resuelvan dudas colectivamente.
+- Generar ingresos sostenibles implementando un modelo de suscripción escalable que aporte valor diferencial.
+
+### Beneficios para los Usuarios  
+- **Principiantes:** Acceso a mejores prácticas agrícolas que reducen errores en sus cultivos, traduciendo el aprendizaje en mejores rendimientos desde las primeras cosechas. 
+- **Experimentados:** Herramientas de gestión y análisis de cultivos que maximizan la productividad mediante visualización de datos y estadísticas para predicciones más precisas. 
+- **Pequeños agricultores:** Acceso a una plataforma simple pero efectiva que simplifica la planificación y el monitoreo continuo de cultivos, adaptada a las necesidades específicas de espacios reducidos.
 
 ![Lean ux canvas](images/leanux.png)
 
