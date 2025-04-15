@@ -39,7 +39,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 |---------|------------|---------------|--------------------------------------------------------------------------------------|
 | 1.0     | 14/04/25 | Jimena Cama | Documentación de la descripción de la startup del Capitulo 1 |
 | 1.1     | 11/04/2025 | Sebastián Cachis   | Documentación de segmentos objetivos         |
-
+| 1.2     | 14/04/2025 | Elias Yauri   | Documentación de Propuesta de valor               |
 # Contenido
 
 ## [Capítulo I: Introducción](#capítulo-i-introducción)
@@ -295,6 +295,27 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
 
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Propuesta de valor
+
+## Problema a Resolver  
+Los pequeños agricultores y aficionados enfrentan dificultades para gestionar sus cultivos de manera eficiente debido a la falta de herramientas accesibles, fáciles de usar y una comunidad donde compartir conocimientos sobre prácticas agrícolas.
+
+## Posibles Usuarios  
+- **Agricultores principiantes:** Personas con poca experiencia agrícola que buscan aprender y mejorar sus prácticas.  
+- **Agricultores experimentados:** Profesionales que desean optimizar la gestión de sus cultivos con decisiones basadas en datos.  
+- **Pequeños agricultores y jardineros:** Individuos o familias que gestionan pequeñas parcelas de tierra y buscan herramientas sencillas y eficientes.
+
+## Objetivos del Startup  
+- Aumentar la adopción de la aplicación entre pequeños agricultores.  
+- Reducir errores en la gestión de datos agrícolas y mejorar la precisión de decisiones.  
+- Crear una comunidad activa de apoyo y colaboración agrícola.  
+- Generar ingresos sostenibles mediante un modelo de suscripción escalable.
+
+## Beneficios para los Usuarios  
+- **Principiantes:** Aprender mejores prácticas y mejorar los rendimientos de sus cultivos.  
+- **Experimentados:** Optimizar la gestión y análisis de sus cultivos para maximizar la productividad.  
+- **Pequeños agricultores:** Acceso a una herramienta simple que facilita la planificación y monitoreo de cultivos.
+
+![Lean ux canvas](URL-o-ruta-de-la-imagen)
 
 ## 1.3. Segmentos objetivo  
 
