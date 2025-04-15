@@ -83,9 +83,9 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
                 TB1: <br>
                 <br>
                 <b>Juan Fabritzzio Pescoran Angulo</b><br>
-                TB1: <br>
+                TB1: <br><br>
                 <b>Adriano Sebastian Cruz Palomino</b><br>
-                TB1: <br>
+                TB1: Colaboré en la planificación y definición de los módulos de la aplicación Chaquitaclla, enfocándome en que las funcionalidades permitan a los agricultores acceder a información útil <br><br>
                 <b>Lucio Heli Yen Cerna</b><br>
                 TB1: <br>
                 </td>
@@ -97,18 +97,25 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
             <td rowspan="1"><b>Diseña proyectos que permiten la implementación de soluciones en ingeniería de software considerando el impacto en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos.</b></td>
             <td>
                 <b>Jimena Cama Salvatierra</b><br>
-                TB1: Desarrollé un marco de trabajo para Chaquitaclla que integra prácticas sostenibles de agricultura con tecnología accesible, diseñando la arquitectura del sistema para funcionar en entornos con conectividad intermitente. <br>
+                TB1: Desarrollé un marco de trabajo para Chaquitaclla que integra prácticas sostenibles de agricultura con tecnología accesible, diseñando la arquitectura del sistema para funcionar en entornos con conectividad intermitente. 
+                <br>
                 <br>
                 <b>Sebastian Nicolas Cachis Gonzales</b><br>
-                TB1: <br>
+                TB1: 
+                <br>
                 <br>
                 <b>Elias Yauri Paucar</b><br>
-                TB1: <br>
+                TB1: 
+                <br>
                 <br>
                 <b>Juan Fabritzzio Pescoran Angulo</b><br>
-                TB1: <br>
+                TB1: 
+                <br>
+                <br>
                 <b>Adriano Sebastian Cruz Palomino</b><br>
-                TB1: <br>
+                TB1:Participé en la estructuración inicial del proyecto Chaquitaclla, contribuyendo a que la propuesta sea viable para pequeños agricultores y adaptable a sus contextos culturales y económicos, 
+                <br>
+                <br>
                 <b>Lucio Heli Yen Cerna</b><br>
                 TB1: <br>
                 </td>
@@ -131,7 +138,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
                 <b>Juan Fabritzzio Pescoran Angulo</b><br>
                 TB1: <br>
                 <b>Adriano Sebastian Cruz Palomino</b><br>
-                TB1: <br>
+                TB1:Colaboré en la integración de metodologías ágiles para el entorno agrícola, garantizando que Chaquitaclla se actualice constantemente según las sugerencias y necesidades de los agricultores. <br><br>
                 <b>Lucio Heli Yen Cerna</b><br>
                 TB1: <br>
                 </td>
