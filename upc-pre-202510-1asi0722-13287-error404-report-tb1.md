@@ -35,12 +35,15 @@
 
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva e incluye un cuadro con la siguiente estructura:
 
-| Version | Fecha      | Autor         | Descripción de modificación                                                          |
-|---------|------------|---------------|--------------------------------------------------------------------------------------|
-| 1.0     | 14/04/2025 | Jimena Cama | Documentación de la descripción de la startup del Capitulo 1 |
-| 1.1     | 14/04/2025 | Sebastián Cachis   | Documentación de segmentos objetivos         |
-| 1.2     | 14/04/2025 | Elias Yauri   | Documentación de Propuesta de valor               |
-| 1.3     | 15/04/2025 | Adriano Cruz   | Actualización de la Propuesta de Valor  |
+| Version | Fecha      | Autor            | Descripción de modificación                                  |
+|---------|------------|------------------|--------------------------------------------------------------|
+| 1.0     | 14/04/2025 | Jimena Cama      | Documentación de la descripción de la startup del Capitulo 1 |
+| 1.1     | 14/04/2025 | Sebastián Cachis | Documentación de segmentos objetivos                         |
+| 1.2     | 14/04/2025 | Elias Yauri      | Documentación de Propuesta de valor                          |
+| 1.3     | 15/04/2025 | Adriano Cruz     | Actualización de la Propuesta de Valor                       |
+| 1.4     | 15/04/2025 | Juan Pescoran    | Definición de los antecedentes y problemática                |
+
+</div>
 
 # Contenido
 
@@ -83,7 +86,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
                 TB1: <br>
                 <br>
                 <b>Juan Fabritzzio Pescoran Angulo</b><br>
-                TB1: <br><br>
+                TB1: Participé en el diseño de una interfaz amigable para la app Chaquitaclla, enfocándome en que los elementos visuales y de navegación sean intuitivos para usuarios con experiencia tecnológica limitada, promoviendo así una mayor inclusión digital en zonas rurales. <br>
                 <b>Adriano Sebastian Cruz Palomino</b><br>
                 TB1: Colaboré en la planificación y definición de los módulos de la aplicación Chaquitaclla, enfocándome en que las funcionalidades permitan a los agricultores acceder a información útil <br><br>
                 <b>Lucio Heli Yen Cerna</b><br>
@@ -109,7 +112,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
                 <br>
                 <br>
                 <b>Juan Fabritzzio Pescoran Angulo</b><br>
-                TB1: 
+                TB1: Contribuí en la elaboración del plan técnico del proyecto Chaquitaclla, proponiendo soluciones escalables que puedan adaptarse tanto a comunidades con infraestructura limitada como a aquellas con mejores recursos, siempre considerando las realidades socioeconómicas del entorno agrícola.
                 <br>
                 <br>
                 <b>Adriano Sebastian Cruz Palomino</b><br>
@@ -136,7 +139,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
                 TB1: <br>
                 <br>
                 <b>Juan Fabritzzio Pescoran Angulo</b><br>
-                TB1: <br>
+                TB1: Diseñé flujos de trabajo para el mantenimiento de la aplicación, considerando aspectos de sostenibilidad tecnológica y la posibilidad de soporte remoto, priorizando la continuidad operativa en regiones con baja conectividad. <br>
                 <b>Adriano Sebastian Cruz Palomino</b><br>
                 TB1:Colaboré en la integración de metodologías ágiles para el entorno agrícola, garantizando que Chaquitaclla se actualice constantemente según las sugerencias y necesidades de los agricultores. <br><br>
                 <b>Lucio Heli Yen Cerna</b><br>
@@ -153,6 +156,8 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
+
+En este apartado se ofrece una descripción de la startup y los perfiles de los integrantes del equipo.
 
 ### 1.1.1. Descripción de la Startup
 
@@ -199,8 +204,6 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
     Soy estudiante de séptimo ciclo de ingeniería de software en la UPC. Me considero una persona proactiva, organizada, meticulosa y muy enfocada en mis estudios, tanto grupales como individuales. Tengo facilidad para entender y ejemplificar los distintos temas que vemos, teniendo soltura para explicar.
     </td>
   </tr>
-  </tr>
-
   <tr align="center">
     <td rowspan="4">
       <img src="./images/profile_images/elias.png" min-width="400" max-width="900"/>
@@ -232,10 +235,9 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
     Mi nombre es Elias Yauri, soy una persona muy participativa cuando se trata en el tema laboral y en el trabajo en equipo, siempre trato que haya una comunicación constante con todos los miembros del grupo para de esta forma poder tener todos una buena afinidad como grupo y que el trabajo se realice de manera exitosa. 
     </td>
   </tr>
-  </tr>
    <tr align="center">
     <td rowspan="4">
-      <img src="./images/profile_images/jimena_profile.jpg" image" min-width="400" max-width="900"/>
+      <img src="./images/profile_images/jimena_profile.jpg" min-width="400" max-width="900"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
@@ -264,9 +266,7 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
      Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente estoy cursando el 7mo ciclo. Me considero una persona curiosa, determinada y organizada. Con la experiencia en proyectos de startup y trabajos en equipo, trabajaré junto a mis compañeros para lograr un óptimo resultado del proyecto.
     </td>
   </tr>
-  </tr>
-
-<tr align="center">
+  <tr align="center">
     <td rowspan="4">
       <img src="./images/profile_images/adrianoCruz.png"  min-width="400" max-width="900"/>
     </td>
@@ -297,12 +297,79 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
     Mi nombre es Adriano Sebastian Cruz Palomino, tengo 20 años, soy alumno de Ingeniería de Software en la UPC, actualmente estoy cursando el 7mo ciclo. Soy una persona curiosa, responsable, y comprometida con mis estudios, siempre busco aprender más y mejorar mis habilidades.
     </td>
   </tr>
+  <tr align="center">
+    <td rowspan="4">
+      <img src="./images/profile_images/JuanPescoran.jpg"  min-width="400" max-width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      Juan Fabritzzio Pescoran Angulo
+    </td>
   </tr>
-<table>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U20221C936
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Hola que tal, soy Juan Pescoran, tengo 19 años, estoy llevando la carrera de Ingenieria de Software en la UPC, voy en el 7mo ciclo. Me considero una persona responsable, puntual y comprometida con mis estudios. Me gusta aprender cosas nuevas y siempre estoy dispuesto a ayudar a mis compañeros.
+    </td>
+  </tr>
+</table>
 
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
+
+Para conocer mejor el problema que queremos resolver, utilizamos la técnica de los 5W2H, que nos ayuda a identificar y analizar los aspectos clave del problema. A continuación, se presentan las preguntas y respuestas correspondientes:
+
+¿Qué? (What)
+¿Cuál es el problema? <br>
+El problema radica en la ausencia de una herramienta accesible para el público general que permita gestionar, monitorear y seguir el progreso de sus cultivos desde un dispositivo móvil. Las soluciones disponibles actualmente están orientadas principalmente a grandes empresas y no a individuos o pequeños agricultores, lo que crea una brecha en el mercado para quienes necesitan una herramienta práctica y fácil de usar. Aunque existe información online sobre el manejo de cultivos, encontrar fuentes confiables y organizar esa información puede resultar tedioso y consumir mucho tiempo, lo cual no es ideal para quienes buscan eficiencia.
+
+¿Cuándo? (When)
+¿Cuándo ocurre el problema? <br>
+Este desafío surge cuando los agricultores, ya sean novatos o expertos, necesitan una herramienta que les permita gestionar eficazmente sus cultivos, considerando factores como las condiciones climáticas, las etapas de crecimiento y las mejores épocas para sembrar y cosechar. Lamentablemente, las soluciones existentes están enfocadas en grandes empresas y no son accesibles para todos los agricultores.
+
+¿Dónde? (Where)
+¿A quién va dirigida nuestra solución? <br>
+Nuestra solución está destinada a cualquier persona interesada en la gestión agrícola, sin importar su experiencia previa, que busque una herramienta moderna, sencilla y accesible para gestionar sus cultivos desde su móvil.
+¿Dónde surge el problema?
+El problema aparece durante el ciclo de crecimiento de los cultivos, desde la siembra hasta la cosecha. La falta de una gestión adecuada puede llevar a pérdidas de calidad, rendimientos bajos o incluso la pérdida total de la cosecha debido a factores que podrían haberse evitado con un monitoreo más riguroso.
+
+¿Quién? (Who)
+¿Quiénes están involucrados? ¿Quién usará el producto? <br>
+Los usuarios principales de la aplicación serán agricultores novatos, entusiastas de la jardinería y pequeños productores que buscan gestionar mejor sus cultivos. Esto incluye tanto a profesionales del sector agrícola como a personas que cultivan huertos en casa y buscan una herramienta fácil de usar para monitorear y mejorar el crecimiento de sus plantas.
+
+¿Por qué? (Why)
+¿Cuál es la causa del problema? <br>
+El principal reto es introducir una solución tecnológica en un sector agrícola tradicionalmente dominado por métodos convencionales. Muchos agricultores, sobre todo en áreas rurales, están acostumbrados a usar herramientas tradicionales, lo que provoca resistencia a adoptar nuevas tecnologías. Además, los agricultores principiantes pueden sentirse abrumados por la variedad de opciones disponibles y desconfiar de su efectividad. El reto es crear una aplicación móvil que sea vista como una solución confiable y fácil de usar, que demuestre su valor desde el primer uso.
+
+¿Cómo? (How)
+¿Cómo se usará el producto? <br>
+El producto se utilizará para registrar y monitorear los cultivos desde la siembra hasta la cosecha. Los usuarios podrán introducir detalles de sus cultivos, como el tipo de planta, la etapa de crecimiento y las condiciones ambientales. La aplicación ofrecerá recomendaciones personalizadas según el estado del cultivo, ayudando a los usuarios a mejorar la calidad y rendimiento de sus cosechas.
+¿Cómo se logrará una gestión adecuada de los cultivos dentro de la aplicación móvil?
+Los usuarios podrán acceder a la aplicación desde sus dispositivos móviles, registrar manualmente la información de sus cultivos y recibir consejos específicos adaptados a las necesidades de cada planta. La app usará esta información para generar recomendaciones y alertas sobre cuándo realizar tareas como riego, fertilización o cosecha, lo que garantizará una gestión más eficiente y efectiva.
+
+¿Cuánto? (How much)
+¿Cuál es la magnitud del problema? <br>
+Según estudios recientes, solo una pequeña parte del sector agrícola ha adoptado tecnologías avanzadas para la gestión de cultivos. Esto es especialmente problemático en áreas rurales y países en desarrollo, donde la falta de acceso a herramientas tecnológicas limita el potencial productivo y afecta negativamente la calidad de vida de los agricultores. Si nuestra aplicación móvil logra una amplia adopción, podría beneficiar a un gran número de agricultores que hoy carecen de herramientas modernas, mejorando sustancialmente sus prácticas y resultados agrícolas.
+¿Qué porcentaje de la industria agrícola se vería beneficiado por nuestro producto?
+Si nuestra aplicación tiene éxito, podría impactar positivamente a una gran mayoría de pequeños agricultores y aficionados a la jardinería que aún no utilizan tecnología para gestionar sus cultivos. Esto incluiría tanto a personas en áreas urbanas como rurales, con el potencial de mejorar la calidad de los productos agrícolas y optimizar la gestión de los cultivos.
+
 ### 1.2.2. Propuesta de valor
 
 ### Problema a Resolver  
@@ -342,5 +409,27 @@ En el ámbito de la agricultura y tecnología, es fundamental identificar segmen
 # Video About-the-Team  
 
 # Bibliografía  
+
+<i>Ribeiro, A., & Machado, S. (2021). <b>Agricultural technology: Innovation and sustainability. Springer.</b>
+
+Bello, E., & Arregui, I. (2022). <b>Tecnologías emergentes para la agricultura digital: Perspectivas para pequeños productores. Editorial Universitaria.</b>
+
+López, R., & González, M. (2021). <b>Agricultura inteligente: Tecnologías para el futuro del campo. Universidad Politécnica de Valencia.</b>
+
+FAO. (2022). <b>Digital agriculture: A conceptual framework for the integration of digital technologies in the agricultural sector. Organización de las Naciones Unidas para la Alimentación y la Agricultura.</b> Recuperado de https://www.fao.org/digital-agriculture/en/
+
+World Bank. (2023). <b>Agriculture and technology: A new era of digital transformation. Banco Mundial.</b> Recuperado de https://www.worldbank.org/en/topic/agriculture
+
+Méndez, D., & Hernández, J. (2023). <b>El impacto de la digitalización en la agricultura: Un análisis de las plataformas móviles para la gestión agrícola.</b> Revista de Agricultura y Desarrollo, 15(3), 45-56.
+
+Martínez, A., & Pérez, F. (2022). <b>Las aplicaciones móviles en la agricultura: Retos y oportunidades para los pequeños productores.</b> Journal of Agricultural Technology, 18(5), 1201-1215.
+
+AgFunder Network Partners. (2021). <b>The rise of AgTech: Digital solutions for sustainable agriculture. AgFunder Network.</b> Recuperado de https://agfundernetwork.com
+
+Vásquez, P., & Gutiérrez, J. (2023). <b>Agricultura digital y el uso de la inteligencia artificial: Hacia la mejora de la eficiencia agrícola. Revista Digital Agricultura.</b> Recuperado de https://www.revistadigitalagricultura.com
+
+Agricultural Technology for Development. (2023). <b>Evaluating the adoption of digital technologies by smallholder farmers. Recuperado de https://www.agtechfordevelopment.org
+
+Google Developers. (2024). <b>Guía de diseño de interfaces para aplicaciones móviles en Android.</b> Recuperado de https://developer.android.com/design </i>
 
 # Anexos  
