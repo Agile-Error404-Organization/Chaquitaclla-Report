@@ -83,7 +83,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
                 TB1: <br>
                 <br>
                 <b>Elias Yauri Paucar</b><br>
-                TB1: <br>
+                TB1: Participé en la planificación y diseño de los módulos de la aplicación Chaquitaclla, asegurando que las funcionalidades respondan a las necesidades de los agricultores y promuevan su bienestar         mediante el acceso a información relevante, considerando su contexto social y económico. <br>
                 <br>
                 <b>Juan Fabritzzio Pescoran Angulo</b><br>
                 TB1: Participé en el diseño de una interfaz amigable para la app Chaquitaclla, enfocándome en que los elementos visuales y de navegación sean intuitivos para usuarios con experiencia tecnológica limitada, promoviendo así una mayor inclusión digital en zonas rurales. <br>
@@ -108,7 +108,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
                 <br>
                 <br>
                 <b>Elias Yauri Paucar</b><br>
-                TB1: 
+                TB1: Colaboré en la fase inicial de estructuración del proyecto Chaquitaclla, aportando a que la solución propuesta fuera viable y sensible a las realidades culturales y económicas de los pequeños agricultores, promoviendo así un impacto positivo en su bienestar y desarrollo sostenible.
                 <br>
                 <br>
                 <b>Juan Fabritzzio Pescoran Angulo</b><br>
@@ -116,7 +116,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
                 <br>
                 <br>
                 <b>Adriano Sebastian Cruz Palomino</b><br>
-                TB1:Participé en la estructuración inicial del proyecto Chaquitaclla, contribuyendo a que la propuesta sea viable para pequeños agricultores y adaptable a sus contextos culturales y económicos, 
+                TB1:Participé en la estructuración inicial del proyecto Chaquitaclla, contribuyendo a que la propuesta sea viable para pequeños agricultores y adaptable a sus contextos culturales y económicos. 
                 <br>
                 <br>
                 <b>Lucio Heli Yen Cerna</b><br>
