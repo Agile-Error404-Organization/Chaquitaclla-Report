@@ -42,6 +42,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | 1.2     | 14/04/2025 | Elias Yauri      | Documentación de Propuesta de valor                          |
 | 1.3     | 15/04/2025 | Adriano Cruz     | Actualización de la Propuesta de Valor                       |
 | 1.4     | 15/04/2025 | Juan Pescoran    | Definición de los antecedentes y problemática                |
+| 1.5     | 17/04/2025 | Lucio Yen    |Documentación de los antecedentes                 |
 
 </div>
 
@@ -90,7 +91,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
                 <b>Adriano Sebastian Cruz Palomino</b><br>
                 TB1: Colaboré en la planificación y definición de los módulos de la aplicación Chaquitaclla, enfocándome en que las funcionalidades permitan a los agricultores acceder a información útil <br><br>
                 <b>Lucio Heli Yen Cerna</b><br>
-                TB1: <br>
+                TB1: Diseñé funcionalidades de software para la aplicación móvil Chaquitaclla, priorizando la accesibilidad y usabilidad para agricultores con diversos niveles de experiencia tecnológica, contribuyendo a una gestión agrícola eficiente y al monitoreo de cultivos desde dispositivos móviles, considerando el impacto en su bienestar socioeconómico al democratizar el acceso a la tecnología agrícola.<br>
                 </td>
             <td rowspan="1">
                 TB1: [Conclusiones Grupales]<br>
@@ -120,7 +121,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
                 <br>
                 <br>
                 <b>Lucio Heli Yen Cerna</b><br>
-                TB1: <br>
+                TB1: Contribuí a la definición de un proyecto de ingeniería de software para la aplicación móvil Chaquitaclla, mediante la identificación y presentación de antecedentes y la problemática del sector agrícola en relación con la adopción tecnológica, destacando las necesidades específicas de los agricultores y los potenciales impactos socioeconómicos y de accesibilidad a considerar en el diseño de la solución.<br>
                 </td>
             <td rowspan="1">
                  TB1: [Conclusiones Grupales Pendientes]<br>
@@ -143,7 +144,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
                 <b>Adriano Sebastian Cruz Palomino</b><br>
                 TB1:Colaboré en la integración de metodologías ágiles para el entorno agrícola, garantizando que Chaquitaclla se actualice constantemente según las sugerencias y necesidades de los agricultores. <br><br>
                 <b>Lucio Heli Yen Cerna</b><br>
-                TB1: <br>
+                TB1: Colaboré en la implementación y adaptación de metodologías ágiles para el desarrollo y mantenimiento de la aplicación móvil Chaquitaclla en el contexto agrícola, participando en la definición de ciclos de retroalimentación con agricultores de diversas regiones y niveles tecnológicos para asegurar la mejora continua de la solución, considerando su bienestar y adaptabilidad a sus condiciones sociales y económicas.<br>
                 </td>
             <td rowspan="1">
                  TB1: [Conclusiones Grupales Pendientes]<br>
