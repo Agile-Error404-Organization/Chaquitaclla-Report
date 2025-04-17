@@ -136,7 +136,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
                 TB1: <br>
                 <br>
                 <b>Elias Yauri Paucar</b><br>
-                TB1: <br>
+                TB1: Contribuí a la implementación de metodologías ágiles en el contexto agrícola, asegurando que la aplicación Chaquitaclla se mantuviera en mejora continua de acuerdo con las sugerencias y necesidades de los agricultores, favoreciendo así su bienestar y adaptabilidad a sus condiciones sociales y económicas. <br>
                 <br>
                 <b>Juan Fabritzzio Pescoran Angulo</b><br>
                 TB1: Diseñé flujos de trabajo para el mantenimiento de la aplicación, considerando aspectos de sostenibilidad tecnológica y la posibilidad de soporte remoto, priorizando la continuidad operativa en regiones con baja conectividad. <br>
