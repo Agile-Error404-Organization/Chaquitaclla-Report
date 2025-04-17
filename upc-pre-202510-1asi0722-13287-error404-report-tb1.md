@@ -328,6 +328,37 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
     Hola que tal, soy Juan Pescoran, tengo 19 años, estoy llevando la carrera de Ingenieria de Software en la UPC, voy en el 7mo ciclo. Me considero una persona responsable, puntual y comprometida con mis estudios. Me gusta aprender cosas nuevas y siempre estoy dispuesto a ayudar a mis compañeros.
     </td>
   </tr>
+    <tr align="center">
+    <td rowspan="4">
+      <img src="./images/profile_images/LucioYen.png"  min-width="400" max-width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      Lucio Heli Yen Cerna
+    </td>
+  </tr>|
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U202213143
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Soy estudiante del séptimo ciclo de la carrera de Ingeniería de Software en la UPC. Me considero una persona responsable, dedicada y autodidacta. Me gusta crear un gran ambiente laboral que nos genere a todos los miembros de mi equipo una gran motivación para lograr nuestros objetivos con creces.   
+    </td>
+  </tr>
 </table>
 
 ## 1.2. Solution Profile
