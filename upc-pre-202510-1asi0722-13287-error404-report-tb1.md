@@ -153,6 +153,80 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
     </tbody>
 </table>
 
+### Smart Goals 
+
+En la siguiente sección, se procederá a detallar de manera exhaustiva los objetivos SMART formulados por el equipo de trabajo. Estos objetivos han sido cuidadosamente diseñados para garantizar un enfoque estratégico y medible en el cumplimiento de las metas del proyecto. Además, se enmarcan en un contexto que favorece la coherencia, precisión y alineación con los resultados esperados, asegurando que cada miembro del grupo contribuya de manera efectiva al éxito global del desarrollo de la aplicación.
+
+<table>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>Cama Salvatierra, Jimena Tamara</th>
+      <th>Cachis Gonzales, Sebastian Nicolas</th>
+      <th>Cruz Palomino, Adriano Sebastian </th>
+      <th>Pescoran Angulo, Juan Fabritzzio </th>
+      <th>Yauri Paucar, Elias</th>
+      <th>yen Cerna, Lucio Heli</th>
+    </tr>
+    <tr>
+      <td rowspan="8"><strong>Objetivo SMART</strong></td>
+      <td><strong>Descripción del objetivo</strong></td>
+      <td>Dominar Scrum desde el rol del Scrum Master, aplicando teoría y práctica en contextos reales de proyecto de aula.</td>
+      <td>Mejorar las habilidades de priorización y gestión del backlog desde el rol del Product Owner.</td>
+      <td>Aprender a facilitar reuniones ágiles clave para fomentar la colaboración y mejorar la eficiencia del equipo.</td>
+      <td>Integrar metodologías ágiles mixtas como Scrum+DevOps para optimizar entregas y procesos en un proyecto.</td>
+      <td>Aprender a usar herramientas digitales ágiles como Jira para planificar, monitorear y gestionar proyectos.</td>
+      <td>Liderar un equipo aplicando metodologías híbridas que mejoren la gestión del flujo de trabajo ágil.</td>
+    </tr>
+    <tr>
+      <td><strong>Fecha de inicio</strong></td>
+      <td colspan="6">18/04/25</td>
+    </tr>
+    <tr>
+      <td><strong>Fecha de cumplimiento esperada</strong></td>
+      <td colspan="6">18/07/25</td>
+    </tr>
+    <tr>
+      <td><strong>S - Specific</strong><br>¿Qué se va a lograr?</td>
+      <td>Actuar como Scrum Master en al menos 2 Sprints completos.</td>
+      <td>Escribir y priorizar historias de usuario efectivas y mantener el backlog.</td>
+      <td>Facilitar retrospectivas, plannings y dailys efectivas.</td>
+      <td>Aplicar Scrum con DevOps y flujos de integración continua.</td>
+      <td>Configurar y usar Jira para seguimiento ágil de proyectos.</td>
+      <td>Planificar y entregar usando Scrum y Kanban combinados.</td>
+    </tr>
+    <tr>
+      <td><strong>M - Measurable</strong><br>¿Tiene KPI o métrica clara?</td>
+      <td>2 Sprints completos como Scrum Master, asistencia a ceremonias.</td>
+      <td>15 historias de usuario con criterios de aceptación bien definidos.</td>
+      <td>4 reuniones facilitadas con feedback documentado del equipo.</td>
+      <td>Una entrega continua automatizada dentro de un Sprint.</td>
+      <td>2 tableros Kanban y 3 reportes de avance configurados.</td>
+      <td>3 entregas incrementales gestionadas con métodos híbridos.</td>
+    </tr>
+    <tr>
+      <td><strong>A - Ambitious</strong><br>¿Es retador?</td>
+      <td>Requiere liderar equipos, coordinar tareas y aplicar eventos Scrum correctamente.</td>
+      <td>Implica gran responsabilidad en la visión del producto y toma de decisiones prioritarias.</td>
+      <td>Facilitar reuniones eficaces y útiles para el equipo es complejo.</td>
+      <td>Requiere conocimientos técnicos y organizativos combinados.</td>
+      <td>Implica el dominio de herramientas especializadas en poco tiempo.</td>
+      <td>Combinar enfoques y entregar continuamente requiere liderazgo ágil.</td>
+    </tr>
+    <tr>
+      <td><strong>R - Relevant</strong><br>¿Está alineado?</td>
+      <td>Aporta al desarrollo de liderazgo Scrum Master, clave en la gestión ágil.</td>
+      <td>Fortalece el rol de Product Owner en equipos ágiles reales.</td>
+      <td>Contribuye a la eficiencia de trabajo colaborativo ágil.</td>
+      <td>Alineado con prácticas modernas y demandas del mercado.</td>
+      <td>Desarrolla competencias altamente valoradas por empresas.</td>
+      <td>Impulsa liderazgo adaptativo y buenas prácticas ágiles.</td>
+    </tr>
+    <tr>
+      <td><strong>T - Time-bound</strong><br>¿Cuándo se cumplirá?</td>
+      <td colspan="6">En 3 meses desde el inicio del curso (18/04/25 – 18/07/25).</td>
+    </tr>
+  </table>
 
 # Capítulo I: Introducción
 
@@ -439,7 +513,7 @@ En el ámbito de la agricultura y tecnología, es fundamental identificar segmen
 
 # Conclusiones  
 ## Conclusiones y recomendaciones  
-
+En conclusión, Chaquitaclla aborda una necesidad crítica en el sector agrícola: la falta de herramientas de gestión accesibles y fáciles de usar para pequeños productores y agricultores no tecnificados. La marcada diferencia en el acceso a tecnología entre grandes empresas y el resto del sector genera ineficiencias y limita el potencial productivo. Nuestra propuesta de una solución móvil intuitiva busca cerrar esta brecha, ofreciendo una plataforma que centraliza la información y facilita la toma de decisiones informadas. Al simplificar la gestión de cultivos y poner el conocimiento al alcance de la mano, este proyecto tiene el potencial de mejorar significativamente las prácticas agrícolas, aumentar la productividad y fomentar la sostenibilidad en un segmento crucial de la economía.
 # Video About-the-Team  
 
 # Bibliografía  
