@@ -366,6 +366,8 @@ En esencia, buscamos revolucionar el sector agrícola mediante una aplicación i
 
 ### 1.2.1. Antecedentes y problemática
 
+La gestión eficiente de cultivos representa un desafío significativo para un amplio espectro de actores, desde agricultores novatos hasta pequeños productores. Un estudio de la FAO (Organización de las Naciones Unidas para la Alimentación y la Agricultura) destaca la brecha tecnológica existente entre las grandes empresas agrícolas, que tienen mayor acceso a herramientas de gestión avanzadas, y los pequeños agricultores o aficionados, quienes a menudo carecen de soluciones accesibles para el seguimiento y la optimización de sus cultivos (FAO, 2022). Esta situación se ve exacerbada por la dispersión y la dificultad de acceder a información confiable y organizada sobre prácticas agrícolas, lo que consume tiempo valioso y dificulta la toma de decisiones informadas. Investigaciones en el ámbito de la agricultura de precisión señalan que, si bien existe una vasta cantidad de información en línea, la curación y aplicación de este conocimiento a las necesidades específicas de pequeños productores sigue siendo un obstáculo considerable (Gebbers & Adamchuk, 2010). La ausencia de soluciones tecnológicas intuitivas y adaptadas a las necesidades de este público específico contrasta con la creciente penetración de dispositivos móviles incluso en zonas rurales (GSMA, 2020), creando una oportunidad para desarrollar herramientas que democratizan el acceso a la gestión agrícola moderna.
+
 Para conocer mejor el problema que queremos resolver, utilizamos la técnica de los 5W2H, que nos ayuda a identificar y analizar los aspectos clave del problema. A continuación, se presentan las preguntas y respuestas correspondientes:
 
 ¿Qué? (What)
@@ -442,26 +444,30 @@ En el ámbito de la agricultura y tecnología, es fundamental identificar segmen
 
 # Bibliografía  
 
-<i>Ribeiro, A., & Machado, S. (2021). <b>Agricultural technology: Innovation and sustainability. Springer.</b>
-
-Bello, E., & Arregui, I. (2022). <b>Tecnologías emergentes para la agricultura digital: Perspectivas para pequeños productores. Editorial Universitaria.</b>
-
-López, R., & González, M. (2021). <b>Agricultura inteligente: Tecnologías para el futuro del campo. Universidad Politécnica de Valencia.</b>
-
-FAO. (2022). <b>Digital agriculture: A conceptual framework for the integration of digital technologies in the agricultural sector. Organización de las Naciones Unidas para la Alimentación y la Agricultura.</b> Recuperado de https://www.fao.org/digital-agriculture/en/
-
-World Bank. (2023). <b>Agriculture and technology: A new era of digital transformation. Banco Mundial.</b> Recuperado de https://www.worldbank.org/en/topic/agriculture
-
-Méndez, D., & Hernández, J. (2023). <b>El impacto de la digitalización en la agricultura: Un análisis de las plataformas móviles para la gestión agrícola.</b> Revista de Agricultura y Desarrollo, 15(3), 45-56.
-
-Martínez, A., & Pérez, F. (2022). <b>Las aplicaciones móviles en la agricultura: Retos y oportunidades para los pequeños productores.</b> Journal of Agricultural Technology, 18(5), 1201-1215.
-
 AgFunder Network Partners. (2021). <b>The rise of AgTech: Digital solutions for sustainable agriculture. AgFunder Network.</b> Recuperado de https://agfundernetwork.com
-
-Vásquez, P., & Gutiérrez, J. (2023). <b>Agricultura digital y el uso de la inteligencia artificial: Hacia la mejora de la eficiencia agrícola. Revista Digital Agricultura.</b> Recuperado de https://www.revistadigitalagricultura.com
 
 Agricultural Technology for Development. (2023). <b>Evaluating the adoption of digital technologies by smallholder farmers. Recuperado de https://www.agtechfordevelopment.org
 
+Bello, E., & Arregui, I. (2022). <b>Tecnologías emergentes para la agricultura digital: Perspectivas para pequeños productores. Editorial Universitaria.</b>
+
+FAO. (2022). <b>Digital agriculture: A conceptual framework for the integration of digital technologies in the agricultural sector. Organización de las Naciones Unidas para la Alimentación y la Agricultura.</b> Recuperado de https://www.fao.org/digital-agriculture/en/
+
+Gebbers, R., & Adamchuk, V. I. (2010). Precision agriculture and site-specific crop management. Annual Review of Plant Biology, 61, 329-351.
+
 Google Developers. (2024). <b>Guía de diseño de interfaces para aplicaciones móviles en Android.</b> Recuperado de https://developer.android.com/design </i>
+
+GSMA. (2020). Connected Agriculture: Global trends and opportunities. GSMA Intelligence. Recuperado de https://www.gsma.com/r/wp-content/uploads/2020/10/GSMA-Agritech-Digital-Agriculture-Maps-2020-1.pdf 
+
+López, R., & González, M. (2021). <b>Agricultura inteligente: Tecnologías para el futuro del campo. Universidad Politécnica de Valencia.</b>
+
+Martínez, A., & Pérez, F. (2022). <b>Las aplicaciones móviles en la agricultura: Retos y oportunidades para los pequeños productores.</b> Journal of Agricultural Technology, 18(5), 1201-1215.
+
+Méndez, D., & Hernández, J. (2023). <b>El impacto de la digitalización en la agricultura: Un análisis de las plataformas móviles para la gestión agrícola.</b> Revista de Agricultura y Desarrollo, 15(3), 45-56.
+
+<i>Ribeiro, A., & Machado, S. (2021). <b>Agricultural technology: Innovation and sustainability. Springer.</b>
+
+Vásquez, P., & Gutiérrez, J. (2023). <b>Agricultura digital y el uso de la inteligencia artificial: Hacia la mejora de la eficiencia agrícola. Revista Digital Agricultura.</b> Recuperado de https://www.revistadigitalagricultura.com
+
+World Bank. (2023). <b>Agriculture and technology: A new era of digital transformation. Banco Mundial.</b> Recuperado de https://www.worldbank.org/en/topic/agriculture
 
 # Anexos  
